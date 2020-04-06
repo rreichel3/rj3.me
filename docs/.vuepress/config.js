@@ -9,6 +9,7 @@ module.exports = {
       { text: 'Home', link: '/' },
       { text: 'Blog', link: '/blog/' },
       { text: 'GitHub', link: 'https://github.com/rreichel3' },
+      { text: 'Twitter', link: 'https://twitter.com/rreichel3' },
       { text: 'Subscribe', link: 'https://mailchi.mp/be6ec727b22d/rj3me' },
       //{ text: 'Knowledge', link: '/knowledge/' },
       //{ text: 'Gists', link: '/subscribe/' },
