@@ -1,7 +1,7 @@
 
 # Security Software Engineer & Entrepreneur
 
-Hey there, I'm Robert.
+Hey, I'm Robert.
 
 It's great to meet you. 
 
