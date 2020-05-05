@@ -14,3 +14,4 @@ jobs:
         BUILD_DIR: public/ # The folder, the action should deploy.
         BUILD_SCRIPT: npm install && npm run-script docs:build # The build script the action should run prior to deploying.
         GITHUB_ACTOR: ${GITHUB_ACTOR}
+        PAGES_CNAME: rj3.me
