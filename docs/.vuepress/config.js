@@ -16,6 +16,7 @@ module.exports = {
     ],
     sidebar: {
       '/blog/': [
+        'cs-masters-degree',
         'questions-to-ask-when-transitioning-jobs',
         'reading-your-cars-obdii-output',
         'nsa-codebreaker-challenge-2016',
