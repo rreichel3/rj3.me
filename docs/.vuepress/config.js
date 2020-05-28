@@ -3,6 +3,14 @@ module.exports = {
   description: 'Security, Tech, & Life',
   dest: 'public',
   docsDir: 'docs',
+  head: [
+    ['link', { rel: "icon", type: "image/png", sizes: "32x32", href: "/assets/favicons/favicon-32x32.png"}],
+    ['link', { rel: "icon", type: "image/png", sizes: "16x16", href: "/assets/favicons/favicon-16x16.png"}],
+    ['link', { rel: "manifest", href: "/assets/favicons/site.webmanifest"}],
+    ['link', { rel: "shortcut icon", href: "/assets/favicons/favicon.ico"}],
+    ['meta', { name: "msapplication-TileColor", content: "#3a0839"}],
+    ['meta', { name: "theme-color", content: "#ffffff"}],
+  ],
   themeConfig: {
     lastUpdated: 'Last Updated',
     nav: [
