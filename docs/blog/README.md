@@ -2,6 +2,8 @@
 
 Generally these are short articles about what's been interesting me lately. (When I have time to synthesize it) 
 
+[Zero Maintenance Blogging](./zero-maintenance-blogging)
+
 [Commands I Use Frequently](./common-commands)
 
 [Thoughts on a Computer Science Master's Degree](./cs-masters-degree)
