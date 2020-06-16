@@ -24,6 +24,8 @@ module.exports = {
     ],
     sidebar: {
       '/blog/': [
+        'zero-maintenance-blogging',
+        'common-commands',
         'cs-masters-degree',
         'questions-to-ask-when-transitioning-jobs',
         'reading-your-cars-obdii-output',
