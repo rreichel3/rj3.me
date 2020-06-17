@@ -1,7 +1,19 @@
-# Commands I use frequently 
+---
+title: Commands Cheat Sheet
+lang: en-US
+description: A quick cheat sheet for common commands 
+---
+
+# Commands Cheat Sheet
 A running list of the commands I use frequently, so I can quickly acess them 😀
 
 ## Mac
+
+### Nmap
+
+```bash
+nmap -v -o -p 1-65535 #host
+```
 
 ### Launch Chrome for Burp
 Prereq: All Chrome instances need to be fully closed(`cmd+q`) before running this, otherwise the settings won't take.

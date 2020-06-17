@@ -1,4 +1,9 @@
-# Reading Your Car's OBD II Output
+---
+title: OBDII Quick Start
+lang: en-US
+description: A beginner's guide to OBDII
+---
+# OBDII Quick Start 
 
 I’ve always been fascinated by cars. Well, really vehicles in general.  The fact that people have figured out how to get thousands of distinct pieces to function together well enough to trust it with our safety astounds me. In this fascination, I decided I wanted to a dig a bit deeper into how a car actually functions.  Of course, there’s the engine, the drivetrain, the brakes, etc but the question I asked, being a Computer Science student, is how it all fits together. So the real question is, “How do the brakes, engine, air-conditioning, engine, exhaust, air-intake, locks, dashboard, and 50 other things all talk to each other?
 
