@@ -1,3 +1,8 @@
+---
+title: Thoughts on a Computer Science Master's Degree
+lang: en-US
+description: Critical considerations for a Master's degree. 
+---
 # Thoughts on a Computer Science Master's Degree
 **5/27/2020**
 
