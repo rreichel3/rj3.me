@@ -2,6 +2,7 @@
 title: "Elliptic Curve Cryptography: Visualized"
 lang: en-US
 description: An infographic to help better understand and provide intuition for ECC. 
+date: "2016-04-14"
 ---
 # Elliptic Curve Cryptography: Visualized
 

@@ -2,6 +2,7 @@
 title: Questions After Starting a New Job
 lang: en-US
 description: A deep dive of curated questions to ask in the first week of a new job
+date: "2019-03-18"
 ---
 # Questions After Starting a New Job
 

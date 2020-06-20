@@ -2,6 +2,7 @@
 title: Zero Maintenance Blogging
 lang: en-US
 description: Ultra-lightweight blogging, with incredible flexibility
+date: "2020-06-16"
 ---
 # Zero Maintenance Blogging
 

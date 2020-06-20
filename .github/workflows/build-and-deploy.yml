@@ -14,13 +14,6 @@ jobs:
     steps:
     - name: Checkout
       uses: actions/checkout@master
-    - name: Checkout
-      uses: actions/checkout@master
-      with:
-        ref: 'gh-pages'
-        path: './gh-pages'
-    - name: Move public dir to master
-      run: mkdir public && cp -r ./gh-pages/* ./public
     - name: Build and Deploy
       uses: rreichel3/vuepress-github-actions-deploy@master
       env:
@@ -28,4 +21,4 @@ jobs:
         BUILD_DIR: public/ # The folder, the action should deploy.
         BUILD_SCRIPT: npm install && npm run-script docs:build # The build script the action should run prior to deploying.
         GITHUB_ACTOR: ${GITHUB_ACTOR}
-        PAGES_CNAME: rj3.me #Force rebuild
+        PAGES_CNAME: rj3.me 

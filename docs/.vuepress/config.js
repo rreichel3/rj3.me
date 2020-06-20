@@ -16,7 +16,6 @@ module.exports = {
     ['meta', { name: "theme-color", content: "#ffffff"}],
   ],
   themeConfig: {
-    lastUpdated: 'Last Updated',
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Blog', link: '/blog/' },
@@ -24,8 +23,6 @@ module.exports = {
       { text: 'Twitter', link: 'https://twitter.com/rreichel3' },
       { text: 'Subscribe', link: 'https://mailchi.mp/be6ec727b22d/rj3me' },
       { text: 'RSS', link: '/rss.xml' },
-      //{ text: 'Knowledge', link: '/knowledge/' },
-      //{ text: 'Gists', link: '/subscribe/' },
     ],
     sidebar: {
       '/blog/': [

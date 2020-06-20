@@ -1,7 +1,8 @@
 ---
 title: Thoughts on a Computer Science Master's Degree
 lang: en-US
-description: Critical considerations for a Master's degree. 
+description: Critical considerations for a Master's degree.
+date: "2020-05-27"
 ---
 # Thoughts on a Computer Science Master's Degree
 **5/27/2020**

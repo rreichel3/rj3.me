@@ -2,6 +2,7 @@
 title: Commands Cheat Sheet
 lang: en-US
 description: A quick cheat sheet for common commands 
+date: "2020-06-14"
 ---
 
 # Commands Cheat Sheet

@@ -2,6 +2,7 @@
 title: OBDII Quick Start
 lang: en-US
 description: A beginner's guide to OBDII
+date: "2015-08-17"
 ---
 # OBDII Quick Start 
 

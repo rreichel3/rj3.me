@@ -2,6 +2,7 @@
 title: "NSA Codebreaker Challenge - 2016"
 lang: en-US
 description: Step by step dissection of the 2016 challenge 
+date: "2017-02-20"
 ---
 # NSA Codebreaker Challenge - 2016
 This semester I’m taking a Computer Security course. So far we’ve discussed OS security features, storage features, and buffer overflow attacks.  While listening to a lecture on return oriented programming I was reminded of this challenge. Though I was too busy to partake while it was happening, I was glad to see it is still available to complete. Below I catalog the challenges and how I approached them. Feel free to comment with any questions and I can try to clarify!
