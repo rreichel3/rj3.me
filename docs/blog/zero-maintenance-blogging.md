@@ -28,6 +28,24 @@ Eventually, I got tired of having to build the branch every time I committed.  I
 
 This action effectively builds the entire VuePress bundle and commits it to the `docs` branch for me every time I merge something into master - It's really the gamechanger I was looking for.  I can now write changes, merge them into master and have them deployed to my website with all the work it takes to create and merge a pull request. Not only is it simple, I can now easily make updates on mobile just by editing the files in the web editor and merging them into master. 
 
+```yaml
+build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+    # Check out the repo associated with this action
+    - name: Checkout
+      # Note: The @master here is for checking out the latest version of the Checkout action, NOT your repo
+      uses: actions/checkout@master
+    - name: Build and Deploy
+      uses: rreichel3/vuepress-github-actions-deploy@master
+      env:
+        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+        BUILD_DIR: public/ # The folder, the action should deploy.
+        BUILD_SCRIPT: npm install && npm run-script docs:build # The build script the action should run prior to deploying.
+        GITHUB_ACTOR: ${GITHUB_ACTOR}
+        PAGES_CNAME: rj3.me 
+```
+
 ### Search Engine Optimization (SEO)
 VuePress supports `Frontmatter` integration, which dynamically generates your SEO tags.  All you have to do is add the metadata to the top of each markdown file and it'll magically turn into `meta` tags. For example, this post has the following frontmatter annotations.  The SEO space is complex enough for it to be its own article, but I added most of these based upon the guidance [here](https://moz.com/blog/the-ultimate-guide-to-seo-meta-tags).
 ```
