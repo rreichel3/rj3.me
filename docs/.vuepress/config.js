@@ -1,3 +1,7 @@
+const feed_options = {
+  canonical_base: 'https://rj3.me',
+};
+
 module.exports = {
   title: 'Robert Reichel',
   description: 'Security, Tech, & Life',
@@ -19,6 +23,7 @@ module.exports = {
       { text: 'GitHub', link: 'https://github.com/rreichel3' },
       { text: 'Twitter', link: 'https://twitter.com/rreichel3' },
       { text: 'Subscribe', link: 'https://mailchi.mp/be6ec727b22d/rj3me' },
+      { text: 'RSS', link: '/rss.xml' },
       //{ text: 'Knowledge', link: '/knowledge/' },
       //{ text: 'Gists', link: '/subscribe/' },
     ],
@@ -41,6 +46,7 @@ module.exports = {
       {
         'ga': 'UA-130701494-3'
       }
-    ]
+    ],
+    [ 'feed', feed_options ]
   ]
 }

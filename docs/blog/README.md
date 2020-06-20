@@ -1,3 +1,10 @@
+---
+title: Robert Reichel's Blog - Home
+lang: en-US
+description: The homepage of my blog.
+feed:
+  enable: false
+---
 # Blog
 
 Generally these are short articles about what's been interesting me lately. (When I have time to synthesize it) 
