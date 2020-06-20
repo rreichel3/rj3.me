@@ -1,7 +1,7 @@
 ---
 title: Thoughts on a Computer Science Master's Degree
 lang: en-US
-description: Critical considerations for a Master's degree.
+description: Over the years I've had many people ask me about my opinion on getting a Master's degree in Computer Science. After having answered the question many times, I decided it'd be worthwhile to put my thoughts into writing.
 date: "2020-05-27"
 ---
 # Thoughts on a Computer Science Master's Degree

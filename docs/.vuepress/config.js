@@ -1,7 +1,14 @@
 const feed_options = {
   canonical_base: 'https://rj3.me',
+  title: "rj3.me | Robert Reichel",
+  image: "https://avatars2.githubusercontent.com/u/976632?s=400&v=4",
+  copyright: "All rights reserved 2020, Robert Reichel",
+  generator: "VuePress Magic 😃",
+  author: {
+    name: "Robert Reichel",
+    link: "https://rj3.me"
+  },
 };
-
 module.exports = {
   title: 'Robert Reichel',
   description: 'Security, Tech, & Life',

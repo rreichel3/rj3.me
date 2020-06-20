@@ -1,7 +1,7 @@
 ---
 title: Questions After Starting a New Job
 lang: en-US
-description: A deep dive of curated questions to ask in the first week of a new job
+description: Job transitions are tough.  There's a ton of change happening all at once and it can lead to a lot of ambiguity and stress. While transitioning jobs, I have found that some or all of the following questions help ease me in to the new role.  So, if you hire me, don't be surprised if I ask these in my first few days. 
 date: "2019-03-18"
 ---
 # Questions After Starting a New Job

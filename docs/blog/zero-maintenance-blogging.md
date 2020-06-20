@@ -1,7 +1,7 @@
 ---
 title: Zero Maintenance Blogging
 lang: en-US
-description: Ultra-lightweight blogging, with incredible flexibility
+description: Throughout the years my website has taken a number of forms.  First it was a baremetal wordpress site, deployed on my own ESXi server.  Next, I containerized it, deploying in a dockerized version of my baremetal server. Over that time I really enjoyed running Wordpress and a server but I eventually got the point where I found myself avoiding writing to avoid dealing with the maintenance.  After considerable deliberation, I eventually landed on an architecture that I call Zero Maintenance Blogging. 
 date: "2020-06-16"
 ---
 # Zero Maintenance Blogging

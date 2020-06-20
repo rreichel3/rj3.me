@@ -1,7 +1,7 @@
 ---
 title: Commands Cheat Sheet
 lang: en-US
-description: A quick cheat sheet for common commands 
+description: A running list of the commands I use frequently, so I can quickly acess them 😀
 date: "2020-06-14"
 ---
 
