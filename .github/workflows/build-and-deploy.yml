@@ -16,8 +16,9 @@ jobs:
       uses: actions/checkout@master
     - name: Checkout
       uses: actions/checkout@master
-      ref: 'gh-pages'
-      path: './gh-pages'
+      with:
+        ref: 'gh-pages'
+        path: './gh-pages'
     - name: Move public dir to master
       run: mkdir public && cp -r ./gh-pages/* ./public
     - name: Build and Deploy
