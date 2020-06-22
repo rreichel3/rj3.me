@@ -51,6 +51,11 @@ module.exports = {
         'ga': 'UA-130701494-3'
       }
     ],
+    [ 'sitemap', 
+      {
+        hostname: 'https://rj3.me'
+      },
+    ],
     [ 'feed', feed_options ]
   ]
 }
