@@ -1,8 +1,7 @@
 ---
 title: Setting up and Running Django in a Docker Container
 lang: en-US
-description: 
-Python + Django is a great development experience, but unfortunately, dependency managment leaves a lot to be desired (though a lot is solved with Virtualenv - If you haven't seen that before, check it out!).  You can very quickly end up in odd states (particularly on a Mac with the system provided version of Python).
+description: Python + Django is a great development experience, but unfortunately, dependency managment leaves a lot to be desired (though a lot is solved with Virtualenv - If you haven't seen that before, check it out!).  You can very quickly end up in odd states (particularly on a Mac with the system provided version of Python).
 date: "2020-07-29"
 ---
 # Setting up and Running Django in a Docker Container
