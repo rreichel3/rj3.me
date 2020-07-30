@@ -33,6 +33,7 @@ module.exports = {
     ],
     sidebar: {
       '/blog/': [
+        'dockerized-django',
         'zero-maintenance-blogging',
         'common-commands',
         'cs-masters-degree',
