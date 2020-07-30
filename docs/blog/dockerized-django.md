@@ -12,7 +12,7 @@ The other day I was working on an old Django app I had written, but never made i
 Knowing there had to be a better way I embarked on getting my project running in a Docker container and after a few hours of trial and error got it running!
 I've pushed the templates I generated to a repo [here](https://github.com/rreichel3/dockerized-django-templates). You can use it, along with these step by step instructions to be off to the races with a containerized Django setup.
 ## How to
-1. python -m pip install Django
+1. Assuming you have pip installed, run `python -m pip install Django`
 1. Setup your Django Project: `django-admin startproject dockerango`
 1. Place each of these files in the `dockerango` directory. That'll be the same directory as `manage.py`
 1. Ensure you've configured `settings.py` to point to the database, like below
