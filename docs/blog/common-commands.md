@@ -1,7 +1,7 @@
 ---
 title: Commands Cheat Sheet
 lang: en-US
-description: A running list of the commands I use frequently, so I can quickly acess them 😀
+description: A running list of the commands I use frequently, so I can quickly acess them 😀.  Raspberry Pi SD Card Backups, Chrome for Burp and NMAP
 date: "2020-06-14"
 ---
 
@@ -9,6 +9,11 @@ date: "2020-06-14"
 A running list of the commands I use frequently, so I can quickly acess them 😀
 
 ## Mac
+### Backup Raspberry Pi SD Card
+```bash
+diskutil list # Find disk you want to copy
+sudo dd if=/dev/rdisk2 bs=1m | gzip > ./tmp/pi_backup.gz # Change the disk number to be the disk to copy
+```
 
 ### Nmap
 
