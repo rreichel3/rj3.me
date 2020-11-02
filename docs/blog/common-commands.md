@@ -14,6 +14,19 @@ A running list of the commands I use frequently, so I can quickly acess them ðŸ˜
 diskutil list # Find disk you want to copy
 sudo dd if=/dev/rdisk2 bs=1m | gzip > ./tmp/pi_backup.gz # Change the disk number to be the disk to copy
 ```
+### Check for webpage updates
+```bash
+#!/bin/bash
+# Script to use when watching a page for a specific change
+URL="https://rj3.me"
+TEXT_TO_MATCH="Robert"
+
+while true
+do
+	curl -v $URL | grep "$TEXT_TO_MATCH" &> /dev/null && osascript -e 'display notification "Matched!"'
+    sleep 10
+done
+```
 
 ### Nmap
 
