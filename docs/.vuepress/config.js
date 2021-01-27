@@ -14,6 +14,7 @@ module.exports = {
   description: 'Security, Tech, & Life',
   dest: 'public',
   docsDir: 'docs',
+  port: 8888,
   head: [
     ['link', { rel: "icon", type: "image/png", sizes: "32x32", href: "/assets/favicons/favicon-32x32.png"}],
     ['link', { rel: "icon", type: "image/png", sizes: "16x16", href: "/assets/favicons/favicon-16x16.png"}],
@@ -26,8 +27,9 @@ module.exports = {
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Blog', link: '/blog/' },
+      { text: 'Book Notes', link: '/book-notes/' },
       { text: 'GitHub', link: 'https://github.com/rreichel3' },
-      { text: 'Twitter', link: 'https://twitter.com/rreichel3' },
+      //{ text: 'Twitter', link: 'https://twitter.com/rreichel3' },
       { text: 'Subscribe', link: 'https://mailchi.mp/be6ec727b22d/rj3me' },
       { text: 'RSS', link: 'https://rj3.me/rss.xml' },
     ],
@@ -42,6 +44,9 @@ module.exports = {
         'nsa-codebreaker-challenge-2016',
         'elliptic-curve-cryptography',
       ],
+      '/book-notes/': [
+        'great-mental-models-general'
+      ]
 
     }
   },
