@@ -5,7 +5,7 @@ Hey, I'm Robert.
 
 It's great to meet you. 
 
-I'm a software engineer who's passionate about security.  I spend my days working for Microsoft's Azure DevOps service helping to secure millions of deployments and code repos every year. At night, I'm hacking away at whatever suits my fancy - Startups, bug bounties, or just a new recipe. 
+I'm a software engineer who's passionate about security.  I spend my days working for GitHub's Application Security team helping to secure millions of deployments and code repos every year. At night, I'm hacking away at whatever suits my fancy - Startups, bug bounties, or just a new recipe. 
 
 ## GitHub
 ### Application Security
