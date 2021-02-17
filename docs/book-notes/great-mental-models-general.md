@@ -142,12 +142,3 @@ We need to be careful not to follow the slippery slope argument too seriously he
 
 - **Leadership** -> When making decisions for organizations, thoughts about actions being taken need to consider second order effects. For example, if we re-org this way, how will it impact communication in the organization? How will it impact trust between divisions? 
 
-
-
-## Second Order Thinking
-
-### Concrete Example
-
-### Where could this be applied? 
-
-- **asdf** -> 
