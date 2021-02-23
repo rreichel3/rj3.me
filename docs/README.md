@@ -9,7 +9,9 @@ I'm a software engineer who's passionate about security.  I spend my days workin
 
 ## GitHub
 ### Application Security
-- Red Team Ops & more!
+- Red Team Ops
+- Software Development
+- Bounty Management
 
 ## Microsoft
 ### Azure DevOps
@@ -30,3 +32,7 @@ I'm a software engineer who's passionate about security.  I spend my days workin
 
 [raptair.ai](https://raptair.ai)
 Harnessing real time object detection along with a mesh of image sensors to autonomously deter pests via land anad air. 
+
+## OSS
+[hunttools](https://github.com/rreichel3/hunttools)
+A CLI tool designed to help you perform repetitive operations easily.
