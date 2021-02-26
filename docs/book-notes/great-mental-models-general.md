@@ -4,8 +4,8 @@ lang: en-US
 description: "The Great Mental Models: General Thinking Concepts Summary - This book discusses common concepts that we can apply to daily situations in the world around us.  It builds out and encourages one to attempt to better understand the world around them through these frameworks. "
 date: "2020-01-27"
 ---
-::: tip IN PROGRESS
-This book is marked as In Progress - I'm still making my way through it
+::: tip Complete
+I've completed this book and these are my notes in their final form
 :::
 # The Great Mental Models - General Thinking Concepts
 This book discusses common concepts that we can apply to daily situations in the world around us.  It builds out and encourages one to attempt to better understand the world around them through these frameworks. 
@@ -142,3 +142,86 @@ We need to be careful not to follow the slippery slope argument too seriously he
 
 - **Leadership** -> When making decisions for organizations, thoughts about actions being taken need to consider second order effects. For example, if we re-org this way, how will it impact communication in the organization? How will it impact trust between divisions? 
 
+
+
+## Probabalistic Thinking
+::: tip Core Concept
+When trying to determine an outcome, attempt to use data available to you to improve your guesses.
+:::
+
+The world is endlessly complex and though we'll try hard, we can never predict the future perfectly.  Though we can't predict it perfectly, that doesn't mean we can't make *informed* predictions about what might happen.  This principle helps us use our understanding of probability to better inform decisions.  
+
+The chapter mentions a few important topics: 
+### Bayesian Thinking
+
+This type of probabalistic thinking encourages us to understand the context in which things are happening.  The book mentions as an example the headline `Violent Stabbings are on the Rise`.  Though this headline sounds scary, it is worth spending time to understand what the relative probability of getting stabbed is. If it increased from .001% to .002%, its unlikely to impact you and shouldn't inform your decision making. 
+
+### Fat-tailed curves
+We're all used to the bell curve - the curve where everything is perfectly symmetrical and evenly distributed.  Though this curve exists in the real world on occasion, fat tailed curves are far more likely as these curves have a much longer tail end to the curve.  This means they don't hit zero as quickly and thus there is a decent proportion of the likely events on the extremes of the curve. If we fail to account to understand a situation as having a fat tail, that could cause us to throw out extreme but very real negative (and positive!) outcomes.  
+
+### Asymmetries
+
+
+Asymmetries occur when the probability of our probabilities being correct off.  If our guessed probabilities are overly optimistic (which is frequent) we could end up making the wrong decision.  It is important to understand this, particularly when folks are trying to sell you on the upside of something.  Their estimates might be the high end of the curve rather than the more realistic middle of the road. 
+
+
+### Where could this be applied? 
+
+
+- **Choosing a Financial Advisor** -> When considering whether to choose a financial advisor, it is worth understanding what they are promising you.  If they promise far exceeded market returns then it is likely an asymmetric probability they're telling you and it is unlikely they'll be able to pull that off.  Remember the phrase "These stocks _could_ have an upside of 40%" is **very** different from the phrase "These stocks _will_ have an upside of 40%" - Your broker will never promise that it will happen, but will say its possible (because it is!).
+- **Spycraft** -> As a spy, one needs to truly understand the risks they're going into.  They need to assess a situation and attempt to understand how risky it may be to decide whether to engage in it.  If they are far off they either never get their job done or end up not making it out of the field alive.  
+
+
+
+
+## Inversion
+::: tip Core Concept
+Flip the problem on its head and try to think through why something isn't the case or what would need to happen for it not to be true.
+:::
+
+Inversion is a simple yet elegant way to ensure you're understaning a problem.  There are two main approaches the book mentions which enable you to flip a problem on its head to think it through.  
+
+1. Start by assuming that what you're trying to prove is either true or false, then show what else would have to be true
+2. Instead of aiming directly for your goal, think deeply about what you want to avoid then see what options are left over.
+
+
+
+### Concrete Example
+The book gives an example of cigarette sales in the early 1900's.  The companies wanted to begin selling more cigarettes to women however at the time it was seen as uncool and for men only. Instead of buying ads and trying to sell directly to women, the companies thought through what other things might need to be true to encourage women to buy them - They landed on using marketing through celebrities, TV, etc to convince them that buying cigarettes is cool for women to do. Instead of trying to direct sell them, they thought about how to change the underlying fabric of the sales situation. 
+### Where could this be applied? 
+
+- **Building Startups** -> Try to understand the problem space you're going into before you build something. Ask yourself why is this a problem and try to explain to yourself why your solution won't work - In explaining why it won't work, you'll likely come up with a list of issues to ensure you solve as you build the product. 
+
+## Occam's Razor
+::: tip Core Concept
+A plurality is not to be posited without necessity - An unlikely case shouldn't be assumed unless we know it has happened
+:::
+
+William Ockham was a medieval monk who spent a lot of time thining about the way things are.  He landed on this adage which can help us to ensure that we don't jump to dangerous conclusions that impact our lives.  It is important that when presented with something unexpected, we don't try to create a false cacophony of potential causes for that thing.  Instead we should take a step back and ask ourselves "What is the most likely thing to have happened" and then assume that until we receive data otherwise. 
+
+### Concrete Example
+The book mentions a number of great examples but since this is a pretty straightforward concept I'll keep it short. 
+
+If someone is arriving home late from work what is most likely? That they died in a fiery crash or that they got stuck on something and left the office a few minutes late? Hopefully you said the latter and if that is the case, its also what you should assume to be the case when you're presented with something.  
+### Where could this be applied? 
+
+- **Medical Scares** -> Assuming the worst and going on WebMD isn't fun because it seems like every road leads to cancer there. If you've got some medical concerns, by all means talk to your doctor and push them but don't get incredibly worked up about it until you've got data that confirms it, particularly when theres nothing you can do. 
+
+
+
+
+## Hanlon's Razor
+::: tip Core Concept
+Don't attribute to malice that which can more easily be explained by stupidity
+:::
+
+Not a lot to say here - Don't jump to a conclusion that someone is out to get you or do bad acts, particularly if it is likely that they weren't aware this could be a potential negative outcome.  
+
+
+
+### Concrete Example
+During the cold war, there was a missile officer aboard a submarine who, while underwater, started hearing explosions going off above them.  Many crew on the sub thought that war had broken out and that they should surface and fire their nuclear missile however one of the officers thought it was unlikely and understood the risk of making a wrong decision - That single individual altered the outcome of the cold war, all because they followed occam's razor
+### Where could this be applied? 
+
+- **Job Applications** -> I've seen many job applications over my career and unfortunately seen many _incredibly_ qualified people not get a job or even an interview because they applied at the end of the interview cycle and a candidate had already been chosen.  When you're applying for jobs its important to know that there are 100's of factors at play that could impact you getting a job and it isn't worth taking it personally when you don't get one because it may not be your fault at all.  
+- **Relationships** -> Assuming stupidity or at least unawareness is usually the best explanation when it feels like someone wronged you in a relationship - Hopefully most of the time, people do not intend to cause harm in any way and so when it does happen it is worth engaging with them to try to understand them and educate them on the outcome.  If it continues to happen then it might be time to re-evaluate. 
