@@ -27,7 +27,7 @@ module.exports = {
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Blog', link: '/blog/' },
-      { text: 'Book Notes', link: '/book-notes/' },
+      { text: 'Book Notes', link: '/books/' },
       { text: 'GitHub', link: 'https://github.com/rreichel3' },
       //{ text: 'Twitter', link: 'https://twitter.com/rreichel3' },
       { text: 'Subscribe', link: 'https://mailchi.mp/be6ec727b22d/rj3me' },
@@ -44,7 +44,7 @@ module.exports = {
         'nsa-codebreaker-challenge-2016',
         'elliptic-curve-cryptography',
       ],
-      '/book-notes/': [
+      '/books/': [
         'great-mental-models-general'
       ]
 
