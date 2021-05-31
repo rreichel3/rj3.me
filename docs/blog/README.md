@@ -9,8 +9,9 @@ feed:
 
 Generally these are short articles about what's been interesting me lately. (When I have time to synthesize it) 
 
-[Dockerized Django](./dockerized-django)
+[Year in LinkedIn (So Far!)](./year-in-linkedin)
 
+[Dockerized Django](./dockerized-django)
 
 [Zero Maintenance Blogging](./zero-maintenance-blogging)
 
