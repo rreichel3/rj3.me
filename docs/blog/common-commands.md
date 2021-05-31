@@ -61,4 +61,5 @@ Prereq: All Chrome instances need to be fully closed(`cmd+q`) before running thi
 ```bash
 /Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --proxy-server=http://localhost:8080 #--ignore-certificate-errors
 ```
-*Note: Ignore certificate errors can be used if you can't install the Burp CA, but it is NOT recommended.*
+*Note: Ignore certificate errors can be used if you can't install the Burp CA, but it is not recommended.*
+
