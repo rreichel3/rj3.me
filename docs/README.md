@@ -1,5 +1,5 @@
 
-# Security Software Engineer & Entrepreneur
+# Security Software Engineer & Builder
 
 Hey, I'm Robert.
 
@@ -34,6 +34,5 @@ I'm a software engineer who's passionate about security.  I spend my days workin
 Harnessing real time object detection along with a mesh of image sensors to autonomously deter pests via land anad air. 
 
 ## OSS
-- [hunttools](https://github.com/rreichel3/hunttools) A CLI tool designed to help you perform repetitive operations easily
 - [gobd](https://github.com/rreichel3/gobd) A lightweight OBD dumper written in Go
 - [US Stock Symbols](https://github.com/rreichel3/US-Stock-Symbols) Full lists of US Securities on the NASDAQ, NYSE, and AMEX powered by GitHub Actions
