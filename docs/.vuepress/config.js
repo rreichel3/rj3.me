@@ -35,6 +35,7 @@ module.exports = {
     ],
     sidebar: {
       '/blog/': [
+        'year-in-linkedin',
         'dockerized-django',
         'zero-maintenance-blogging',
         'common-commands',
