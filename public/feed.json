@@ -1,0 +1,74 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Robert Reichel",
+    "home_page_url": "https://rj3.me",
+    "feed_url": "https://rj3.me/feed.json",
+    "description": "Security, Tech, & Life",
+    "items": [
+        {
+            "id": "https://rj3.me/blog/common-commands.html",
+            "url": "https://rj3.me/blog/common-commands.html",
+            "title": "Commands Cheat Sheet",
+            "summary": "A running list of the commands I use frequently, so I can quickly acess them 😀.  Raspberry Pi SD Card Backups, Chrome for Burp and NMAP",
+            "date_modified": "2020-06-14T00:00:00.000Z"
+        },
+        {
+            "id": "https://rj3.me/blog/cs-masters-degree.html",
+            "url": "https://rj3.me/blog/cs-masters-degree.html",
+            "title": "Thoughts on a Computer Science Master's Degree",
+            "summary": "Over the years I've had many people ask me about my opinion on getting a Master's degree in Computer Science. After having answered the question many times, I decided it'd be worthwhile to put my thoughts into writing.",
+            "date_modified": "2020-05-27T00:00:00.000Z"
+        },
+        {
+            "id": "https://rj3.me/blog/dockerized-django.html",
+            "url": "https://rj3.me/blog/dockerized-django.html",
+            "title": "Setting up and Running Django in a Docker Container",
+            "summary": "Python + Django is a great development experience, but unfortunately, dependency managment leaves a lot to be desired (though a lot is solved with Virtualenv - If you haven't seen that before, check it out!).  You can very quickly end up in odd states (particularly on a Mac with the system provided version of Python).",
+            "date_modified": "2020-07-29T00:00:00.000Z"
+        },
+        {
+            "id": "https://rj3.me/blog/nsa-codebreaker-challenge-2016.html",
+            "url": "https://rj3.me/blog/nsa-codebreaker-challenge-2016.html",
+            "title": "NSA Codebreaker Challenge - 2016",
+            "summary": "This semester I’m taking a Computer Security course. So far we’ve discussed OS security features, storage features, and buffer overflow attacks.  While listening to a lecture on return oriented programming I was reminded of this challenge. Though I was too busy to partake while it was happening, I was glad to see it is still available to complete. Below I catalog the challenges and how I approached them. Feel free to comment with any questions and I can try to clarify!",
+            "date_modified": "2017-02-20T00:00:00.000Z"
+        },
+        {
+            "id": "https://rj3.me/blog/elliptic-curve-cryptography.html",
+            "url": "https://rj3.me/blog/elliptic-curve-cryptography.html",
+            "title": "Elliptic Curve Cryptography: Visualized",
+            "summary": "An infographic to help better understand and provide intuition for ECC.",
+            "image": "https://rj3.me/assets/ecc_diagram.png",
+            "date_modified": "2016-04-14T00:00:00.000Z"
+        },
+        {
+            "id": "https://rj3.me/blog/reading-your-cars-obdii-output.html",
+            "url": "https://rj3.me/blog/reading-your-cars-obdii-output.html",
+            "title": "OBDII Quick Start",
+            "summary": "I’ve always been fascinated by cars. Well, really vehicles in general.  The fact that people have figured out how to get thousands of distinct pieces to function together well enough to trust it with our safety astounds me. In this fascination, I decided I wanted to a dig a bit deeper into how a car actually functions.  Of course, there’s the engine, the drivetrain, the brakes, etc but the question I asked, being a Computer Science student, is how it all fits together. So the real question is, “How do the brakes, engine, air-conditioning, engine, exhaust, air-intake, locks, dashboard, and 50 other things all talk to each other?",
+            "date_modified": "2015-08-17T00:00:00.000Z"
+        },
+        {
+            "id": "https://rj3.me/blog/year-in-linkedin.html",
+            "url": "https://rj3.me/blog/year-in-linkedin.html",
+            "title": "This Year on LinkedIn (So Far)",
+            "summary": "Being in the tech industry and having your LinkedIn mailbox fill up seem to go hand in hand. Over the years I've grown more accustomed to it but felt like the pace had been increasing, so I decided to take a deep dive into the data.",
+            "image": "https://rj3.me/assets/images/blog/year-in-linkedin/security-vs-swe-time.png",
+            "date_modified": "2021-05-26T00:00:00.000Z"
+        },
+        {
+            "id": "https://rj3.me/blog/questions-to-ask-when-transitioning-jobs.html",
+            "url": "https://rj3.me/blog/questions-to-ask-when-transitioning-jobs.html",
+            "title": "Questions After Starting a New Job",
+            "summary": "Job transitions are tough.  There's a ton of change happening all at once and it can lead to a lot of ambiguity and stress. While transitioning jobs, I have found that some or all of the following questions help ease me in to the new role.  So, if you hire me, don't be surprised if I ask these in my first few days.",
+            "date_modified": "2019-03-18T00:00:00.000Z"
+        },
+        {
+            "id": "https://rj3.me/blog/zero-maintenance-blogging.html",
+            "url": "https://rj3.me/blog/zero-maintenance-blogging.html",
+            "title": "Zero Maintenance Blogging",
+            "summary": "Throughout the years my website has taken a number of forms.  First it was a baremetal wordpress site, deployed on my own ESXi server.  Next, I containerized it, deploying in a dockerized version of my baremetal server. Over that time I really enjoyed running Wordpress and a server but I eventually got the point where I found myself avoiding writing to avoid dealing with the maintenance.  After considerable deliberation, I eventually landed on an architecture that I call Zero Maintenance Blogging.",
+            "date_modified": "2020-06-16T00:00:00.000Z"
+        }
+    ]
+}
