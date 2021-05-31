@@ -11,6 +11,7 @@ I'm a software engineer who's passionate about security.  I spend my days workin
 - Software Development
 - Bounty Management
 
+
 ## Microsoft
 ### Azure DevOps
 - Driving organizational security goals
