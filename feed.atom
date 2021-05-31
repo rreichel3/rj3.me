@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rj3.me</id>
     <title>Robert Reichel</title>
-    <updated>2021-02-26T00:51:45.875Z</updated>
+    <updated>2021-05-31T18:41:36.024Z</updated>
     <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
     <link rel="alternate" href="https://rj3.me"/>
     <link rel="self" href="https://rj3.me/feed.atom"/>
@@ -16,20 +16,20 @@
         <summary type="html"><![CDATA[A running list of the commands I use frequently, so I can quickly acess them 😀.  Raspberry Pi SD Card Backups, Chrome for Burp and NMAP]]></summary>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Thoughts on a Computer Science Master's Degree]]></title>
+        <id>https://rj3.me/blog/cs-masters-degree.html</id>
+        <link href="https://rj3.me/blog/cs-masters-degree.html">
+        </link>
+        <updated>2020-05-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Over the years I've had many people ask me about my opinion on getting a Master's degree in Computer Science. After having answered the question many times, I decided it'd be worthwhile to put my thoughts into writing.]]></summary>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Setting up and Running Django in a Docker Container]]></title>
         <id>https://rj3.me/blog/dockerized-django.html</id>
         <link href="https://rj3.me/blog/dockerized-django.html">
         </link>
         <updated>2020-07-29T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Python + Django is a great development experience, but unfortunately, dependency managment leaves a lot to be desired (though a lot is solved with Virtualenv - If you haven't seen that before, check it out!).  You can very quickly end up in odd states (particularly on a Mac with the system provided version of Python).]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elliptic Curve Cryptography: Visualized]]></title>
-        <id>https://rj3.me/blog/elliptic-curve-cryptography.html</id>
-        <link href="https://rj3.me/blog/elliptic-curve-cryptography.html">
-        </link>
-        <updated>2016-04-14T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[An infographic to help better understand and provide intuition for ECC.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[NSA Codebreaker Challenge - 2016]]></title>
@@ -40,12 +40,12 @@
         <summary type="html"><![CDATA[This semester I’m taking a Computer Security course. So far we’ve discussed OS security features, storage features, and buffer overflow attacks.  While listening to a lecture on return oriented programming I was reminded of this challenge. Though I was too busy to partake while it was happening, I was glad to see it is still available to complete. Below I catalog the challenges and how I approached them. Feel free to comment with any questions and I can try to clarify!]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Questions After Starting a New Job]]></title>
-        <id>https://rj3.me/blog/questions-to-ask-when-transitioning-jobs.html</id>
-        <link href="https://rj3.me/blog/questions-to-ask-when-transitioning-jobs.html">
+        <title type="html"><![CDATA[Elliptic Curve Cryptography: Visualized]]></title>
+        <id>https://rj3.me/blog/elliptic-curve-cryptography.html</id>
+        <link href="https://rj3.me/blog/elliptic-curve-cryptography.html">
         </link>
-        <updated>2019-03-18T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Job transitions are tough.  There's a ton of change happening all at once and it can lead to a lot of ambiguity and stress. While transitioning jobs, I have found that some or all of the following questions help ease me in to the new role.  So, if you hire me, don't be surprised if I ask these in my first few days.]]></summary>
+        <updated>2016-04-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[An infographic to help better understand and provide intuition for ECC.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[OBDII Quick Start]]></title>
@@ -56,19 +56,27 @@
         <summary type="html"><![CDATA[I’ve always been fascinated by cars. Well, really vehicles in general.  The fact that people have figured out how to get thousands of distinct pieces to function together well enough to trust it with our safety astounds me. In this fascination, I decided I wanted to a dig a bit deeper into how a car actually functions.  Of course, there’s the engine, the drivetrain, the brakes, etc but the question I asked, being a Computer Science student, is how it all fits together. So the real question is, “How do the brakes, engine, air-conditioning, engine, exhaust, air-intake, locks, dashboard, and 50 other things all talk to each other?]]></summary>
     </entry>
     <entry>
+        <title type="html"><![CDATA[This Year on LinkedIn (So Far)]]></title>
+        <id>https://rj3.me/blog/year-in-linkedin.html</id>
+        <link href="https://rj3.me/blog/year-in-linkedin.html">
+        </link>
+        <updated>2021-05-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Being in the tech industry and having your LinkedIn mailbox fill up seem to go hand in hand. Over the years I've grown more accustomed to it but felt like the pace had been increasing, so I decided to take a deep dive into the data.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Questions After Starting a New Job]]></title>
+        <id>https://rj3.me/blog/questions-to-ask-when-transitioning-jobs.html</id>
+        <link href="https://rj3.me/blog/questions-to-ask-when-transitioning-jobs.html">
+        </link>
+        <updated>2019-03-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Job transitions are tough.  There's a ton of change happening all at once and it can lead to a lot of ambiguity and stress. While transitioning jobs, I have found that some or all of the following questions help ease me in to the new role.  So, if you hire me, don't be surprised if I ask these in my first few days.]]></summary>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Zero Maintenance Blogging]]></title>
         <id>https://rj3.me/blog/zero-maintenance-blogging.html</id>
         <link href="https://rj3.me/blog/zero-maintenance-blogging.html">
         </link>
         <updated>2020-06-16T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Throughout the years my website has taken a number of forms.  First it was a baremetal wordpress site, deployed on my own ESXi server.  Next, I containerized it, deploying in a dockerized version of my baremetal server. Over that time I really enjoyed running Wordpress and a server but I eventually got the point where I found myself avoiding writing to avoid dealing with the maintenance.  After considerable deliberation, I eventually landed on an architecture that I call Zero Maintenance Blogging.]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thoughts on a Computer Science Master's Degree]]></title>
-        <id>https://rj3.me/blog/cs-masters-degree.html</id>
-        <link href="https://rj3.me/blog/cs-masters-degree.html">
-        </link>
-        <updated>2020-05-27T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Over the years I've had many people ask me about my opinion on getting a Master's degree in Computer Science. After having answered the question many times, I decided it'd be worthwhile to put my thoughts into writing.]]></summary>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>Robert Reichel</title>
         <link>https://rj3.me</link>
         <description>Security, Tech, &amp; Life</description>
-        <lastBuildDate>Fri, 26 Feb 2021 00:51:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 May 2021 18:41:36 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
         <atom:link href="https://rj3.me/feed.atom" rel="self" type="application/rss+xml"/>
@@ -16,11 +16,25 @@
             <description><![CDATA[A running list of the commands I use frequently, so I can quickly acess them 😀.  Raspberry Pi SD Card Backups, Chrome for Burp and NMAP]]></description>
         </item>
         <item>
+            <title><![CDATA[Thoughts on a Computer Science Master's Degree]]></title>
+            <link>https://rj3.me/blog/cs-masters-degree.html</link>
+            <guid>https://rj3.me/blog/cs-masters-degree.html</guid>
+            <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Over the years I've had many people ask me about my opinion on getting a Master's degree in Computer Science. After having answered the question many times, I decided it'd be worthwhile to put my thoughts into writing.]]></description>
+        </item>
+        <item>
             <title><![CDATA[Setting up and Running Django in a Docker Container]]></title>
             <link>https://rj3.me/blog/dockerized-django.html</link>
             <guid>https://rj3.me/blog/dockerized-django.html</guid>
             <pubDate>Wed, 29 Jul 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[Python + Django is a great development experience, but unfortunately, dependency managment leaves a lot to be desired (though a lot is solved with Virtualenv - If you haven't seen that before, check it out!).  You can very quickly end up in odd states (particularly on a Mac with the system provided version of Python).]]></description>
+        </item>
+        <item>
+            <title><![CDATA[NSA Codebreaker Challenge - 2016]]></title>
+            <link>https://rj3.me/blog/nsa-codebreaker-challenge-2016.html</link>
+            <guid>https://rj3.me/blog/nsa-codebreaker-challenge-2016.html</guid>
+            <pubDate>Mon, 20 Feb 2017 00:00:00 GMT</pubDate>
+            <description><![CDATA[This semester I’m taking a Computer Security course. So far we’ve discussed OS security features, storage features, and buffer overflow attacks.  While listening to a lecture on return oriented programming I was reminded of this challenge. Though I was too busy to partake while it was happening, I was glad to see it is still available to complete. Below I catalog the challenges and how I approached them. Feel free to comment with any questions and I can try to clarify!]]></description>
         </item>
         <item>
             <title><![CDATA[Elliptic Curve Cryptography: Visualized]]></title>
@@ -32,11 +46,20 @@
             </enclosure>
         </item>
         <item>
-            <title><![CDATA[NSA Codebreaker Challenge - 2016]]></title>
-            <link>https://rj3.me/blog/nsa-codebreaker-challenge-2016.html</link>
-            <guid>https://rj3.me/blog/nsa-codebreaker-challenge-2016.html</guid>
-            <pubDate>Mon, 20 Feb 2017 00:00:00 GMT</pubDate>
-            <description><![CDATA[This semester I’m taking a Computer Security course. So far we’ve discussed OS security features, storage features, and buffer overflow attacks.  While listening to a lecture on return oriented programming I was reminded of this challenge. Though I was too busy to partake while it was happening, I was glad to see it is still available to complete. Below I catalog the challenges and how I approached them. Feel free to comment with any questions and I can try to clarify!]]></description>
+            <title><![CDATA[OBDII Quick Start]]></title>
+            <link>https://rj3.me/blog/reading-your-cars-obdii-output.html</link>
+            <guid>https://rj3.me/blog/reading-your-cars-obdii-output.html</guid>
+            <pubDate>Mon, 17 Aug 2015 00:00:00 GMT</pubDate>
+            <description><![CDATA[I’ve always been fascinated by cars. Well, really vehicles in general.  The fact that people have figured out how to get thousands of distinct pieces to function together well enough to trust it with our safety astounds me. In this fascination, I decided I wanted to a dig a bit deeper into how a car actually functions.  Of course, there’s the engine, the drivetrain, the brakes, etc but the question I asked, being a Computer Science student, is how it all fits together. So the real question is, “How do the brakes, engine, air-conditioning, engine, exhaust, air-intake, locks, dashboard, and 50 other things all talk to each other?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[This Year on LinkedIn (So Far)]]></title>
+            <link>https://rj3.me/blog/year-in-linkedin.html</link>
+            <guid>https://rj3.me/blog/year-in-linkedin.html</guid>
+            <pubDate>Wed, 26 May 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Being in the tech industry and having your LinkedIn mailbox fill up seem to go hand in hand. Over the years I've grown more accustomed to it but felt like the pace had been increasing, so I decided to take a deep dive into the data.]]></description>
+            <enclosure url="https://rj3.me/assets/images/blog/year-in-linkedin/security-vs-swe-time.png">
+            </enclosure>
         </item>
         <item>
             <title><![CDATA[Questions After Starting a New Job]]></title>
@@ -46,25 +69,11 @@
             <description><![CDATA[Job transitions are tough.  There's a ton of change happening all at once and it can lead to a lot of ambiguity and stress. While transitioning jobs, I have found that some or all of the following questions help ease me in to the new role.  So, if you hire me, don't be surprised if I ask these in my first few days.]]></description>
         </item>
         <item>
-            <title><![CDATA[OBDII Quick Start]]></title>
-            <link>https://rj3.me/blog/reading-your-cars-obdii-output.html</link>
-            <guid>https://rj3.me/blog/reading-your-cars-obdii-output.html</guid>
-            <pubDate>Mon, 17 Aug 2015 00:00:00 GMT</pubDate>
-            <description><![CDATA[I’ve always been fascinated by cars. Well, really vehicles in general.  The fact that people have figured out how to get thousands of distinct pieces to function together well enough to trust it with our safety astounds me. In this fascination, I decided I wanted to a dig a bit deeper into how a car actually functions.  Of course, there’s the engine, the drivetrain, the brakes, etc but the question I asked, being a Computer Science student, is how it all fits together. So the real question is, “How do the brakes, engine, air-conditioning, engine, exhaust, air-intake, locks, dashboard, and 50 other things all talk to each other?]]></description>
-        </item>
-        <item>
             <title><![CDATA[Zero Maintenance Blogging]]></title>
             <link>https://rj3.me/blog/zero-maintenance-blogging.html</link>
             <guid>https://rj3.me/blog/zero-maintenance-blogging.html</guid>
             <pubDate>Tue, 16 Jun 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[Throughout the years my website has taken a number of forms.  First it was a baremetal wordpress site, deployed on my own ESXi server.  Next, I containerized it, deploying in a dockerized version of my baremetal server. Over that time I really enjoyed running Wordpress and a server but I eventually got the point where I found myself avoiding writing to avoid dealing with the maintenance.  After considerable deliberation, I eventually landed on an architecture that I call Zero Maintenance Blogging.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Thoughts on a Computer Science Master's Degree]]></title>
-            <link>https://rj3.me/blog/cs-masters-degree.html</link>
-            <guid>https://rj3.me/blog/cs-masters-degree.html</guid>
-            <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[Over the years I've had many people ask me about my opinion on getting a Master's degree in Computer Science. After having answered the question many times, I decided it'd be worthwhile to put my thoughts into writing.]]></description>
         </item>
     </channel>
 </rss>
